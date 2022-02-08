@@ -1,10 +1,13 @@
 # Attendence_system
 ## Tech used: HTML, CSS, JAVASCRIUPT, BOOTSTRAP, PHP, SQL
 ## Steps to run:
-Login using the teachers id and password
-Select the division
-Select 2hr, 1hr or abasent or the student
-You can add or delete student
+* Run your xampp server
+* Download the filesand save in htdocs folder
+* Opne the login page using the localhost link
+* Login using the teachers id and password
+* Select the division
+* Select 2hr, 1hr or abasent for the student
+* You can add or delete student
 ## Screenshots:
 ![image](https://user-images.githubusercontent.com/67607199/152973401-89f92ea3-c21f-4c51-836f-10076195e2c3.png)
 ![image](https://user-images.githubusercontent.com/67607199/152973515-0cb94e5a-cae2-4c6a-a600-61235e9cbe46.png)
